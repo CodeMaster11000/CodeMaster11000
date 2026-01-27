@@ -43,7 +43,7 @@ A complete web-based grievance management system designed for colleges.
 - PHP & MySQL
 - AJAX for dynamic filtering
 
-🔗 **Repo:** _Add GitHub link here_
+🔗 **Repo:** https://github.com/CodeMaster11000/Grievance-Redressal-Project
 
 ---
 
@@ -61,7 +61,7 @@ A project built during the **AI for Bharat** hackathon to bridge information gap
 - API integrations
 - Cloud-friendly architecture
 
-🔗 **Repo:** _Add GitHub link here_
+🔗 **Repo:** https://github.com/CodeMaster11000/AI-For-Bharat-kiro-challenge
 
 ---
 
@@ -98,14 +98,14 @@ A project built during the **AI for Bharat** hackathon to bridge information gap
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeMaster11000&show_icons=true&theme=transparent" />
 </p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: _Add link_
+- 💼 LinkedIn: www.linkedin.com/in/ekansh-agnihotri-5b5611327
 - 🧑‍💻 GitHub: You’re already here 😉
 - 📬 Open to collaborations, learning, and building cool stuff
 
