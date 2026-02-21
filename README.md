@@ -98,7 +98,7 @@ A project built during the **AI for Bharat** hackathon to bridge information gap
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeMaster11000&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeMaster11000&show_icons=true&theme=transparent&cache_seconds=86400" />
 </p>
 
 ---
