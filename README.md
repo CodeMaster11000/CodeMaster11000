@@ -1,114 +1,53 @@
-<h1 align="center">Hey 👋 I'm Ekansh</h1>
-<p align="center">
-  Computer Science Undergraduate • Builder • Curious Learner
-</p>
+<h1 align="center">Hi 👋, I'm Ekansh</h1>
+<h3 align="center">B.Tech CS @ SKIT Jaipur · Full-stack Java + Angular · Exploring DevOps</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white"/>
+  <a href="https://github.com/CodeMaster11000">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+SkyGuard+AI+%E2%80%94+AWS+Sensor+Anomaly+Detection;Full-stack+Java+%2B+Angular+Developer;Learning+DevOps%2C+one+pipeline+at+a+time" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🚀 What I'm working on
+- 🌦️ **SkyGuard AI** — real-time anomaly detection for Automatic Weather Station sensors (temp/pressure/humidity), built for SIH 2026 (SIH26073)
+- 🛠️ Full-stack: Angular frontend, Java 21 backend, Python ML pipeline, TimescaleDB
+- 📚 Currently deepening DevOps skills alongside full-stack Java work
 
-I'm a **B.Tech Computer Science student** who enjoys building practical, impact-driven software systems.  
-I like working close to fundamentals — understanding *how things work*, not just *how to use them*.
-
-- 🔧 Strong focus on **core CS + web development**
-- 🏗️ Love building **real-world problem-solving projects**
-- 🧠 Currently strengthening **DSA, system thinking & clean code**
-- 🚀 Believer in learning by building and iterating
-
----
-
-## 🚀 Featured Projects
-
-### 🏫 College Grievance Redressal System
-A complete web-based grievance management system designed for colleges.
-
-**Highlights**
-- Student & Admin dashboards
-- Category-based grievance routing
-- Status tracking (Pending / Resolved)
-- Secure authentication
-- Responsive UI with clean UX
-
-**Tech Stack**
-- HTML, CSS, JavaScript
-- PHP & MySQL
-- AJAX for dynamic filtering
-
-🔗 **Repo:** https://github.com/CodeMaster11000/Grievance-Redressal-Project
-
----
-
-### 🌾 Mandi-Setu (AI for Bharat Hackathon)
-A project built during the **AI for Bharat** hackathon to bridge information gaps in the agricultural ecosystem.
-
-**Highlights**
-- Focus on real-world rural/agri use-cases
-- AI-assisted insights (API-driven)
-- Clean and minimal interface
-- Built with scalability in mind
-
-**Tech Stack**
-- HTML, CSS, JavaScript
-- API integrations
-- Cloud-friendly architecture
-
-🔗 **Repo:** https://github.com/CodeMaster11000/AI-For-Bharat-kiro-challenge
-
----
-
-## 🛠️ Skills
-
-**Languages**
-- C, C++
-
-**Web Development**
-- HTML5, CSS3, JavaScript
-- Tailwind CSS
-
-**Core CS**
-- Data Structures & Algorithms (in progress)
-- Problem Solving
-- Database basics (MySQL)
-
-**Tools & Practices**
-- Git & GitHub
-- REST APIs
-- Debugging & clean code practices
-
----
-
-## 📚 Currently Learning
-
-- Advanced JavaScript concepts
-- Backend fundamentals & system flow
-- DSA with practical problem solving
-- Writing better, more maintainable code
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeMaster11000&show_icons=true&theme=transparent&cache_seconds=86400" />
+### 🧰 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=postgresql&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-## 🤝 Let’s Connect
-
-- 💼 LinkedIn: www.linkedin.com/in/ekansh-agnihotri-5b5611327
-- 🧑‍💻 GitHub: You’re already here 😉
-- 📬 Open to collaborations, learning, and building cool stuff
+### 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeMaster11000&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaster11000&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
-  <i>"Build small. Think deep. Improve daily."</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaster11000&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeMaster11000&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeMaster11000/CodeMaster11000/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/CodeMaster11000/CodeMaster11000/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 📫 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ekansh-agnihotri-5b5611327"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
