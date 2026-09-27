@@ -1,148 +1,105 @@
 <div align="center">
 
-# 👋 Hey, I'm Ekansh.
+<a href="https://github.com/CodeMaster11000">
+  <img src="./assets/ekansh-dashboard.svg" alt="Ekansh — software developer dashboard" width="100%"/>
+</a>
 
-### `CSE Student` · `Software Developer` · `Builder`
+<br/>
 
-<p>
-  <i>I like turning ideas into systems that actually work.</i>
-</p>
-
-<p>
-  <a href="https://github.com/CodeMaster11000">
-    <img src="https://komarev.com/ghpvc/?username=CodeMaster11000&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://github.com/CodeMaster11000?tab=followers">
-    <img src="https://img.shields.io/github/followers/CodeMaster11000?label=Followers&style=flat&color=0e75b6" />
-  </a>
-</p>
-
-</div>
-
----
-
-## `> whoami`
-
-```text
-Ekansh Agnihotri
-├── 🎓 B.Tech Computer Science @ SKIT Jaipur
-├── 💻 Software Development
-├── 🧠 Machine Learning & Intelligent Systems
-├── ⚙️ Backend + Full-Stack Engineering
-└── ☁️ Exploring DevOps & Cloud
-```
-
-I'm a CSE student who enjoys going beyond tutorials and building things that
-solve actual problems.
-
-Currently, I'm exploring the intersection of **software engineering, ML,
-and infrastructure** — from building APIs and interfaces to designing
-systems that process real-world data.
-
----
-
-## ⚡ Currently Building
-
-<div align="center">
-
-### 🌦️ SkyGuard AI
-
-**An intelligent anomaly detection system for Automatic Weather Stations**
+<a href="https://github.com/CodeMaster11000">
+  <img src="https://img.shields.io/badge/GitHub-CodeMaster11000-161B22?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ekansh-agnihotri-5b5611327">
+  <img src="https://img.shields.io/badge/LinkedIn-Ekansh%20Agnihotri-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/CodeMaster11000?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-36-238636?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-```text
-Weather Station
-      │
-      ▼
- ┌───────────────┐
- │ Sensor Stream │
- └───────┬───────┘
-         │
-         ▼
- ┌─────────────────────┐
- │   Detection Engine  │
- │                     │
- │ Statistical Models  │
- │ Mahalanobis Distance│
- │ Isolation Forest    │
- │ Spatial Analysis    │
- └──────────┬──────────┘
-            │
-            ▼
-      🚨 Anomaly Alert
-```
+---
 
-Built for **Smart India Hackathon 2026 — SIH26073**
+## `// about`
 
-**Stack**
+**B.Tech Computer Science @ SKIT Jaipur**
 
-`Python` `Machine Learning` `Angular` `Java 21` `Spring Boot`
-`TimescaleDB` `Docker` `Kafka` `DevOps`
+I build software at the intersection of **full-stack engineering, AI/ML, and developer tooling**.
 
-> The goal isn't just to detect that something is wrong.
-> It's to understand **what went wrong, where it happened, and how confident we are.**
+Currently, I'm going deeper into **Java + Spring Boot, Angular, machine learning, DevOps and cloud infrastructure** — with a preference for learning by building rather than collecting tutorials.
+
+> **Build something real. Understand why it works. Then make it better.**
 
 ---
 
-## 🧰 My Engineering Toolbox
+## `// featured`
 
-### Languages
+<table>
+<tr>
+<td width="68%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,c,html,css" />
-</p>
+### ☁️ SkyGuard AI
 
-### Backend & Databases
+**AI-powered anomaly detection for Automatic Weather Station sensors**
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql" />
-</p>
+Built for **Smart India Hackathon 2026 · SIH26073**
 
-### Frontend
+SkyGuard analyzes weather-sensor telemetry and detects abnormal behavior across temperature, pressure and humidity — combining statistical detection, machine learning and spatial reasoning.
 
-<p>
-<img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind" />
-</p>
+`Python` `Scikit-learn` `Java 21` `Spring Boot` `Angular`  
+`TimescaleDB` `Kafka` `Docker`
 
-### DevOps & Tools
+</td>
+<td width="32%" align="center" valign="middle">
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux" />
-</p>
+<img src="./assets/skyguard-mini.svg" width="210" alt="SkyGuard AI"/>
 
-### ML / Data
+<br/>
 
-`NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib`
+<a href="https://github.com/CodeMaster11000?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20my%20repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Things I've Built
+## `// selected work`
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌦️ SkyGuard AI
+### 🌱 SarthiAI
 
-**Weather Sensor Intelligence**
+**AI for Bharat · Amazon Hack2Skill**
 
-ML-driven anomaly detection pipeline for Automatic Weather Stations.
+A voice-first AI form companion designed to help people understand complex public forms and schemes — with accessibility, multilingual interaction and low-connectivity use cases in mind.
 
-`Python` `ML` `TimescaleDB` `Kafka`
+`AI` `LLM` `RAG` `Voice AI` `AWS` `OCR`
+
+<br/>
+
+<a href="https://github.com/CodeMaster11000/SarthiAI">↗ repository</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏛️ SKIT Grievance Portal
+### 🧞 GitGenie
 
-**Campus Problem → Digital Workflow**
+**Open Source Contribution**
 
-A full-stack grievance management system with student and admin workflows.
+An intelligent CLI for simplifying Git workflows — automating common Git operations and assisting with commit workflows using AI.
 
-`PHP` `MySQL` `JavaScript`
+`TypeScript` `Node.js` `CLI` `Gemini`
+
+<br/>
+
+<a href="https://github.com/CodeMaster11000/GitGenie">↗ contribution</a>
 
 </td>
 
@@ -150,27 +107,35 @@ A full-stack grievance management system with student and admin workflows.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💰 Wealth Vault
+### 🎯 Cloud-Yug Focus Tracker
 
-**Personal Finance Platform**
+**AI-powered productivity extension**
 
-A TypeScript-based project built during open-source contribution work.
+A browser extension that monitors browsing habits, tracks focus sessions and provides smart interventions to help users stay focused.
 
-`TypeScript` `Web`
+`AI` `Browser Extension` `Productivity`
+
+<br/>
+
+<a href="https://github.com/CodeMaster11000?tab=repositories">↗ repository</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💬 WhatsApp-like Chat App
+### `+` More
 
-**Learning Distributed Thinking**
+I keep experimenting with **web applications, C++, open source, ML pipelines and developer tools**.
 
-A C++ project exploring desktop UI, networking concepts and application architecture.
+The profile is better explored through the repositories themselves.
 
-`C++` `Qt`
+<br/>
+
+<a href="https://github.com/CodeMaster11000?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20all%20repositories-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -179,156 +144,133 @@ A C++ project exploring desktop UI, networking concepts and application architec
 
 ---
 
-## 🧠 What I'm Learning Right Now
+## `// toolbox`
 
-```text
-Software Engineering
-        │
-        ├── Data Structures & Algorithms
-        ├── Backend Architecture
-        ├── APIs & Databases
-        │
-        ▼
-Machine Learning
-        │
-        ├── Anomaly Detection
-        ├── Model Evaluation
-        ├── Data Pipelines
-        │
-        ▼
-DevOps
-        │
-        ├── Docker
-        ├── CI/CD
-        ├── Jenkins
-        └── Cloud Infrastructure
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,python,cpp,c,html,css,postgres,mysql,docker,jenkins,git,github,linux&perline=9" alt="Technology stack"/>
+</p>
 
-I'm particularly interested in understanding **how the pieces connect**,
-rather than learning technologies in isolation.
+<p align="center">
+
+`Machine Learning` · `Scikit-learn` · `NumPy` · `Pandas` · `TimescaleDB` · `AWS`
+
+</p>
 
 ---
 
-## 🌱 Open Source
+## `// currently exploring`
 
-I enjoy contributing to projects where I can learn by actually shipping code.
+<table>
+<tr>
+<td align="center" width="25%">
 
-### ECWoC — Elite Coders Winter of Code
+**☕**
 
-Contributed across multiple projects involving:
+### Java
 
-* 🎨 Frontend features & UI improvements
-* 🔎 Filtering & pagination
-* 💾 LocalStorage-based functionality
-* ✨ Interactive web experiences
-* ⚙️ TypeScript projects
-* 🧩 C++ libraries
+Spring Boot  
+Backend architecture  
+APIs
 
-> One thing I've learned from open source:
-> **writing code is only half the job — understanding someone else's codebase is a skill of its own.**
+</td>
+
+<td align="center" width="25%">
+
+**🧠**
+
+### AI / ML
+
+Anomaly detection  
+LLMs  
+Data pipelines
+
+</td>
+
+<td align="center" width="25%">
+
+**⚙️**
+
+### DevOps
+
+Docker  
+CI/CD  
+Jenkins
+
+</td>
+
+<td align="center" width="25%">
+
+**☁️**
+
+### Cloud
+
+AWS  
+Deployment  
+Infrastructure
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Activity
+## `// github`
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeMaster11000&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaster11000&layout=compact&theme=github_dark&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=CodeMaster11000&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 The Contribution Machine
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/CodeMaster11000/CodeMaster11000/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/CodeMaster11000/CodeMaster11000/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution snake"
-    src="https://raw.githubusercontent.com/CodeMaster11000/CodeMaster11000/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
----
-
-## 🏆 A Few Milestones
-
-|     |                                                            |
-| --- | ---------------------------------------------------------- |
-| 🎓  | **B.Tech CSE** — SKIT Jaipur                               |
-| 🥇  | **NPTEL Elite** — Programming in Modern C++                |
-| 🥇  | **NPTEL Elite** — Problem Solving Through C                |
-| 🗄️ | **PostgreSQL RDBMS Training** — IIT Bombay Spoken Tutorial |
-| 🌍  | **Open Source Contributor** — ECWoC                        |
-| 🚀  | **SIH 2026** — Building SkyGuard AI                        |
-
----
-
-## 💭 How I Think About Development
-
-```cpp
-while (alive) {
-
-    learn();
-
-    build();
-
-    break_things();
-
-    debug();
-
-    understand_why();
-
-    repeat();
-}
-```
-
-I don't want to just collect technologies.
-
-I want to become the kind of engineer who can look at a problem,
-break it down, understand the system underneath it, and **build the thing.**
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ekansh-agnihotri-5b5611327">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 <a href="https://github.com/CodeMaster11000">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeMaster11000&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&rank_icon=github&cache_seconds=1800" height="170" alt="GitHub statistics"/>
 </a>
 
-<br><br>
+<a href="https://github.com/CodeMaster11000?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaster11000&layout=compact&langs_count=8&hide_border=true&theme=github_dark&cache_seconds=1800" height="170" alt="Top languages"/>
+</a>
 
-### ⭐ If something here interests you, feel free to explore the repositories.
+</div>
+
+> **Note:** the stats cards above are optional. If GitHub's public stats service rate-limits, the rest of this README remains completely functional. The custom dashboard and contribution graph are hosted from this repository itself.
+
+---
+
+## `// contribution graph`
+
+<div align="center">
+
+<a href="https://github.com/CodeMaster11000">
+  <img src="./assets/contribution-grid.svg" alt="GitHub contribution activity" width="100%"/>
+</a>
 
 </div>
 
 ---
 
+## `// milestones`
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Modern%20C%2B%2B%20%7C%20Elite-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPTEL-Problem%20Solving%20Through%20C%20%7C%20Elite-FFB000?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/IIT%20Bombay-PostgreSQL%20RDBMS-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ECWoC-Open%20Source-8957E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SIH%202026-SkyGuard%20AI-238636?style=for-the-badge"/>
+
+</p>
+
+---
+
 <div align="center">
 
-<sub>Built with curiosity, caffeine, and an unreasonable number of Git commits.</sub>
+### `software • systems • experiments`
+
+<a href="https://github.com/CodeMaster11000">
+  <img src="https://img.shields.io/badge/See%20what%20I'm%20building-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<sub>Thanks for stopping by.</sub>
 
 </div>
