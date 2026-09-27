@@ -1,19 +1,11 @@
 <div>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=180&section=header&text=EKANSH&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=BUILDING%20SYSTEMS%20THAT%20DO%20SOMETHING&descAlignY=60&descSize=15&descColor=8B949E"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+CSE+Student;Java+%2B+Angular+%7C+Python+%7C+Machine+Learning;Building+SkyGuard+AI+%E2%98%81%EF%B8%8F;Exploring+DevOps%2C+Cloud+%26+Intelligent+Systems;Open+Source+%7C+Hackathons+%7C+Learning+by+Building" alt="Typing SVG"/>
-
-<br>
-
-<a href="https://github.com/CodeMaster11000"> <img src="https://komarev.com/ghpvc/?username=CodeMaster11000&style=for-the-badge&color=238636&label=PROFILE+VIEWS"/> </a>
-
-<a href="https://github.com/CodeMaster11000?tab=followers"> <img src="https://img.shields.io/github/followers/CodeMaster11000?style=for-the-badge&color=58A6FF&label=FOLLOWERS"/> </a>
-
-<a href="https://github.com/CodeMaster11000?tab=repositories"> <img src="https://img.shields.io/badge/REPOSITORIES-36-8957E5?style=for-the-badge"/> </a>
-
-</div>
+  <div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=180&section=header&text=EKANSH&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=BUILDING%20SYSTEMS%20THAT%20DO%20SOMETHING&descAlignY=60&descSize=15&descColor=8B949E"/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+CSE+Student;Java+%2B+Angular+%7C+Python+%7C+Machine+Learning;Building+SkyGuard+AI+%E2%98%81%EF%B8%8F;Exploring+DevOps%2C+Cloud+%26+Intelligent+Systems;Open+Source+%7C+Hackathons+%7C+Learning+by+Building" alt="Typing SVG"/>
+  
+  </div>
 
 <a href="https://github.com/CodeMaster11000">
   <img src="https://img.shields.io/badge/GitHub-CodeMaster11000-161B22?style=flat-square&logo=github&logoColor=white" />
